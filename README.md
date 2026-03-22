@@ -15,6 +15,3 @@ Hi, This is Brinda U from BMS College Of Engineering pursuing UG<br>I am open to
 ---
 [![](https://visitcount.itsvg.in/api?id=BRINDAU16&icon=0&color=0)](https://visitcount.itsvg.in)
 
-
-- ⚡ Fun fact: ...
--->
